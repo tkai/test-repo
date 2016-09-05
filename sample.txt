@@ -2,4 +2,7 @@ this ia a test......
 Git is easy!!
 
 AAAAABBBBB
-CCCCCdddddC
+CCCCCddddd
+
+this is on the newbranch branch ^^
+C
